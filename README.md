@@ -1,5 +1,5 @@
 # Netflix SQL Project
-
+![Netflix Logo](https://github.com/sandeepsonkar/Netflix_SQL_Project/blob/main/Netflix_logo.jpg)
 A PostgreSQL project with 15 SQL queries on Netflix data, solving business problems like top genres, longest movies, and recent trends using aggregation, string, and date functions.
 
 ## 🧠 Key Concepts Used
